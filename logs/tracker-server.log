@@ -1,0 +1,4 @@
+2020-02-05 09:15:50  WARN: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13h53m18s586ms930µs200ns).
+2020-02-05 10:20:14  WARN: No SMTP configuration found
+2020-02-05 14:40:43  WARN: HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h16m22s235ms567µs).
+2020-02-05 15:07:43  INFO: Shutting down server...
